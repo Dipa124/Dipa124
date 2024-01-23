@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Dipa124
+- 👋 Hi, I’m @DP-12
 - 👀 I’m interested in Python, JavaScript, AI, Web Development
 - 🌱 I’m currently learning Python and JavaScript
 - 💞️ I’m looking to collaborate on ...
